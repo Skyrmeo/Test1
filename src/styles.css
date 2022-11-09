@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    font-family: sans-serif;
+    max-width: 800px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
